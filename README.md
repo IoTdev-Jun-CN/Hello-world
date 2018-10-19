@@ -1,3 +1,3 @@
 # Hello world
 
-Records of study github
+Records of study
